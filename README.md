@@ -1,1 +1,1 @@
-# KlantKompas
+# CustomerCompass
